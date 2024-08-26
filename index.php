@@ -6,7 +6,7 @@
 include "header.php";
 
 
-#include "body.php";
-#include "newslettter.php";
-#include "footer.php";
+include "body.php";
+include "newsletter.php";
+include "footer.php";
 ?>
